@@ -1,2 +1,2 @@
-print(bool("kathir"
+print(bool("kathir"))
            
